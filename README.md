@@ -1,5 +1,5 @@
 # rahuldev
-# Full Stack Developer
+# Tech Lead | Principle Software Engineer | Full Stack Developer
 # About me
 
 - 🔭 I’m currently working on **React + Node.js + Laravel + Adobe Commerce** based scalable applications. 
